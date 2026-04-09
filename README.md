@@ -86,8 +86,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavranjan123&show_icons=true&locale=en&layout=compact" alt="rishavranjan123" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishavranjan123&theme=default" alt="rishavranjan123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavranjan123&show_icons=true&locale=en" alt="rishavranjan123" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishavranjan123&theme=default" alt="rishavranjan123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavranjan123&" alt="rishavranjan123" /></p>
