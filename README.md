@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rishav</h1>
-<h3 align="center">A Machine Learning enthusiast working in Artificial Intelligence.</h3>
+<h3 align="center">Full-Stack Java Developer | AI & LLM Engineer</h3>
 
-- 🔭 I'm currently working on **RAG**
+<p align="center">
+  I build enterprise-grade backend systems with Java & Spring Boot and integrate Large Language Models into real-world products. Currently working at the intersection of CRM, AI automation, and LLM-powered workflows — designing multi-agent systems, RAG pipelines, and autonomous AI tooling.
+</p>
 
-- 🌱 I'm currently learning **LLM optimization**
+- 🔭 I'm currently working on **autonomous AI agents and LLM-powered workflow automation**
 
-- 👯 I'm looking to collaborate on **LLM modelling**
+- 🌱 I'm currently learning **LLM optimization, prompt engineering, and multi-agent orchestration**
 
-- ⚡ Fun fact **I think, i am funny**
+- 👯 I'm looking to collaborate on **AI-integrated backend systems and LLM applications**
+
+- 🛠️ I work with **Java, Spring Boot, React, TypeScript, PostgreSQL, OpenSearch, and AI APIs (OpenAI, Anthropic)**
+
+- ⚡ Fun fact **I told an LLM to review my code. It responded with "have you considered a career change?"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,6 +64,10 @@
 
 <a href="https://redis.io" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+</a>
+
+<a href="https://opensearch.org/" target="_blank" rel="noreferrer">
+  <img src="https://opensearch.org/assets/brand/PNG/Mark/opensearch_mark_default.png" alt="opensearch" width="40" height="40"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
